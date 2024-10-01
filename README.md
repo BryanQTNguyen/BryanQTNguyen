@@ -1,5 +1,5 @@
 ## 🙌 Bryan Nguyen
-📚 **Undergraduate** Computer Science major with a minor in Data Science sharing my Tech adventure <br/>
+📚 **Undergraduate** Data Science major sharing my Tech adventure <br/>
 🖥️ **Created** a variety of projects ranging from 2D/3D Games to Machine Learning Models <br/>
 💭 Currently **learning** more about web development and machine learning. 
 
